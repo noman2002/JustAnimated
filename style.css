@@ -1,0 +1,16 @@
+body{
+
+}
+.main{
+  align-items: center;
+  color: white;
+}
+.a1{
+  text-decoration: none;
+  border: none;
+font-size: 90px;
+color: #f875ab;
+}
+.a1:hover{
+  color: #f875ab;
+}
