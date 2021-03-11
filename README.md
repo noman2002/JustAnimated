@@ -1,4 +1,4 @@
 # JustAnimated
-a webpage containing bSIC animation effects
+a webpage containing basic animation effects
 #
 #### Just a single animated webpage with some motivational words.
